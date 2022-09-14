@@ -1,0 +1,5 @@
+#!bin/bash
+
+
+END=10
+for _in $(seq 1 $END); do echo "Best School";done
