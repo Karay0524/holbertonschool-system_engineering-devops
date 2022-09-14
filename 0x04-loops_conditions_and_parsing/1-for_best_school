@@ -2,4 +2,4 @@
 
 
 END=10
-for _in $(seq 1 $END); do echo "Best School";done
+for _ in $(seq 1 $END); do echo "Best School";done
